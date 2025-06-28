@@ -2,3 +2,4 @@
 runs/
 *.webp
 __pycache__/
+vae/
