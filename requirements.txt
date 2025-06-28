@@ -1,0 +1,17 @@
+# Core PyTorch dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+
+# TensorBoard for logging and visualization
+tensorboard>=2.10.0
+
+# Additional dependencies that might be useful for the project
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# Jupyter notebook support (if running in notebook environment)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+tqdm
+numpy
