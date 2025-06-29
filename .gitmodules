@@ -1,0 +1,3 @@
+[submodule "VAE-CVAE-MNIST"]
+	path = VAE-CVAE-MNIST
+	url = https://github.com/timbmg/VAE-CVAE-MNIST/tree/master
