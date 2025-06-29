@@ -1,3 +1,6 @@
 [submodule "VAE-CVAE-MNIST"]
 	path = VAE-CVAE-MNIST
 	url = https://github.com/elewah/VAE-CVAE-MNIST.git
+[submodule "generative"]
+	path = generative
+	url = https://github.com/elewah/generative.git
